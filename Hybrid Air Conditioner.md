@@ -48,7 +48,8 @@ The average estimate of it will be around ***Rs.4000 - Rs.5000***. The cost here
 |11|	Required|	Water cooling system|	Aluminium Alloy CPU Water Cooling Block Water Blocks Radiator Liquid Cooler- 40mm|	1	|417|	417|
 |12|	Required|	Radiator for efficient water cooling|	Computer Aluminum PC Water Cooling System Equipment Heat Dissipation Radiator - 120mm|	1|	1295|	1295|
 						
-***Total (Including Adjustibe) = Rs 6337 (Approx = 6500)	
-Total (Excluding Adjustibe) = Rs 5680 (Approx = 5600)***	
+***Total (Including Adjustibe) = Rs 6337 (Approx = 6500)***
+
+***Total (Excluding Adjustibe) = Rs 5680 (Approx = 5600)***	
 
 
