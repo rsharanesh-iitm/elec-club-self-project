@@ -31,3 +31,24 @@ Obviously, it will be liked by everyone because the current situation is that th
 
 #### Cost
 The average estimate of it will be around ***Rs.4000 - Rs.5000***. The cost here depends on the components we use. For a good efficient one, high quality components needs to be used and so the cost is also higher. The efficiency of the product is highly decided by the components that are used.
+
+#### Bill of Materials
+|S.No|	Category|	Name|	Description|	Quantity|	Cost|	Price|
+|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
+|1|	Adjustible (If no need of a remote then no need for arduino, just an On/Off switch)|Arduino Nano|	Nano Board R3 with CH340 chip without USB Cable compatible with Arduino|	1	|220|	220|
+|2|	Required|	Peltier Module|	TEC1-12710 40x40mm Thermoelectric Cooler 10A Peltier Module|	3	|350|	1050|
+|3|	Required|	Cpu Cooling System(Banggood)|	Aurora CPU Cooler RGB Cooling Fan 4Pin For Intel LGA 775 1150 1151 1155 1156 1366 AMD|	1|	1294|	1294|
+|4|	Required|	Heat sink|	HEAT SINK FOR STEPPER MOTOR NEMA17 40*40*11MM|	2	|177|	354|
+|5|	Required|	12V DC Fan|	Electronicspices DC 12V Cooling Fan for PC Case CPU Cooler Radiator WITH (JST CONNECTOR)|	3|	185|	555|
+|6| Required|	12V 10A SMPS|	12V 10A - 120W - AC to DC Switching Mode Power Supply - SMPS - Dual Rail Output|	1|	520	|520|
+|7|	Required|	Servo Motor	TowerPro SG90 Mini Servo – 180 degree Rotation – Standard Quality	|1|	100|	100|
+|8|	Adjustible (if arduino isn't used then this can be compromised)	IR Remote contol	HX1838 VS1838 NEC Infrared IR Remote Control Sensor Module For arduino|	1|	130|	130|
+|9|	Adjustible (if arduino isn't used then this can be compromised)	LCD Display	xcluma Adjustable Back Light Iic/I2C/Twi/Spi Serial Module Arduino With Blue 1602 Lcd|	1|	302|	302|
+|10|	Required|	Temperature sensor|	DHT-11 Digital Temperature And Humidity Sensor|	1|	100|	100|
+|11|	Required|	Water cooling system|	Aluminium Alloy CPU Water Cooling Block Water Blocks Radiator Liquid Cooler- 40mm|	1	|417|	417|
+|12|	Required|	Radiator for efficient water cooling|	Computer Aluminum PC Water Cooling System Equipment Heat Dissipation Radiator - 120mm|	1|	1295|	1295|
+						
+***Total (Including Adjustibe) = Rs 6337 (Approx = 6500)	
+Total (Excluding Adjustibe) = Rs 5680 (Approx = 5600)***	
+
+
